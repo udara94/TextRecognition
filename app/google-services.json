@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335437673425",
+    "firebase_url": "https://mlkit-6068f.firebaseio.com",
+    "project_id": "mlkit-6068f",
+    "storage_bucket": "mlkit-6068f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335437673425:android:c2a9c059eef4270deba6f0",
+        "android_client_info": {
+          "package_name": "com.vogella.android.textrecognistion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335437673425-1vaj8arv2sstia9hopopdcboc7e6jv9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4CA6Tvr13JHjp9oKeX7nEcjyLRQT6jTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335437673425-1vaj8arv2sstia9hopopdcboc7e6jv9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
