@@ -21,7 +21,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:src="@drawable/ic_launcher_background" />
+                android:src="@drawable/text" />
 
             <TextView
                 android:id="@+id/textView"
@@ -37,8 +37,17 @@
         android:id="@+id/extracted_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true">
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
 
+        <Button
+            android:id="@+id/select_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Image"
+            android:layout_marginRight="20dp"/>
         <Button
             android:id="@+id/checkText"
             android:layout_width="wrap_content"

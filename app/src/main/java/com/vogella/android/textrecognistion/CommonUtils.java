@@ -18,7 +18,8 @@ import java.io.IOException;
 import static android.graphics.BitmapFactory.decodeFile;
 import static android.graphics.BitmapFactory.decodeStream;
 
-public class MyHelper {
+public class CommonUtils {
+
     public static String getPath(Context context, Uri uri) {
         String path = "";
         String[] projection = {MediaStore.Images.Media.DATA};
